@@ -1,5 +1,8 @@
 //Name : Tiana Koundakjian 
 // ID: 260949364
+// email: tiana.koundakjian@mail.mcgill.ca
+
+
 #include<iostream>
 using namespace std;
 int main ()
