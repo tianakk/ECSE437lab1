@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "400bb4b6_920a7ec3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020527
+      },
+      "writtenOn": "2022-09-28T17:23:11Z",
+      "side": 1,
+      "message": "kindly find attached my first gerrit commit!",
+      "revId": "6a52082702b1f91947ac0fdaae30c61f6aa330fe",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
